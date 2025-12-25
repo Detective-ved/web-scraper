@@ -1,0 +1,9 @@
+selenium
+tk
+pandas
+tkinter
+sqlite3
+selenium.webdriver.chrome.options
+beautifulsoup4
+threading
+time
